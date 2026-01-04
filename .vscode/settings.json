@@ -6,8 +6,13 @@
             "server": "localhost",
             "port": 5432,
             "driver": "PostgreSQL",
+<<<<<<< HEAD
             "name": "connecting",
             "database": "test_db",
+=======
+            "name": "practice",
+            "database": "book_managment_db ",
+>>>>>>> eda4f9d001db28080bcf6990cd9e6a0dd5dad00a
             "username": "postgres"
         }
     ]
